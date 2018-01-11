@@ -9,7 +9,7 @@ import org.springframework.dao.EmptyResultDataAccessException;
 
 import springbook.user.domain.User;
 
-abstract class AbstractUserDao {
+abstract class AbstractUserDao { 
 	
 	private DataSource dataSource;
 	
